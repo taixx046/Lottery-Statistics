@@ -6,8 +6,11 @@ It was created sometime during a school break.
 <br>
 Uploading it to github is purely for prospective employers review only.
 <br>
-No license will be granted for any usage. All rights reserved.
+No license will be granted for any usage. All rights reserved. (The C++ code)
 <br>
 It supports Hot Lotto, Lucky For Life, Mega Millions and PowerBall
 <br>
-Historical data can be found at www.powerball.com/powerball/winnums-text.txt
+Historical data can be found at
+www.powerball.com/powerball/winnums-text.txt
+<br>
+Hot Lotto, Lucky For Life, Mega Millions and PowerBall are the TradeMark of Multi-State Lottery Association.
