@@ -1,6 +1,6 @@
 # Lottery-Statistics
 <br>
-Read in historical winning numbers from a text file and pick the most frequently appear numbers
+Read in historical winning numbers from a text file and show them to user for easier reading
 <br>
 It was created sometime during a school break.
 <br>
