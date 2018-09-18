@@ -19,3 +19,5 @@ https://www.mnlottery.com/_asset/tszy5z/pb_2016.txt
 This program is built to only support input of text file from mnlottory website.
 <br>
 Hot Lotto, Lucky For Life, Mega Millions and PowerBall are the TradeMark of Multi-State Lottery Association.
+<br>
+Due to some change in drawing rule, the lastest drawing result is not supported by this program.
