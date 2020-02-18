@@ -1,4 +1,7 @@
 # Lottery-Statistics
+
+This program is no longer working due to USA lottery has changed/removed text file of archive lottery result.
+
 <br>
 Read in historical winning numbers from a text file and show them to user for easier reading
 <br>
